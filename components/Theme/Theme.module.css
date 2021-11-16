@@ -1,0 +1,8 @@
+
+.hiSun {
+    @apply text-gray-50 dark:text-gray-50 text-2xl cursor-pointer
+}
+
+.hiMoon {
+    @apply text-white dark:text-gray-400 text-2xl cursor-pointer
+}
